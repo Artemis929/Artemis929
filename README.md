@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Artemis929.这是一个流浪猫救助网站。来自ZUEL的小组作业。
+- 👋 Hi, I’m @Artemis929.
 
 
 <!---
